@@ -16,9 +16,14 @@ import Foundation
 
 //Problem & solutions # 2
 //Checkign a number is palindrome or not
-let palindrome = Palindrome()
-let num = 121
-let isPalindrome = palindrome.isPalindrome(num)
-print(isPalindrome)
+//let palindrome = Palindrome()
+//let num = 121
+//let isPalindrome = palindrome.isPalindrome(num)
+//print(isPalindrome)
 
-
+//Problem & Solutions 3
+//Convert Roman number to Int
+let romainToInt = RomanToInt()
+let inputStr = "XXVII"
+let results = romainToInt.convert(inputStr)
+print(results)
