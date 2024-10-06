@@ -23,7 +23,14 @@ import Foundation
 
 //Problem & Solutions 3
 //Convert Roman number to Int
-let romainToInt = RomanToInt()
-let inputStr = "XXVII"
-let results = romainToInt.convert(inputStr)
+//let romainToInt = RomanToInt()
+//let inputStr = "XXVII"
+//let results = romainToInt.convert(inputStr)
+//print(results)
+
+//Problem & Solutions 4
+//Convert the number to roman number
+let numbreToRoman = IntToRoman()
+let inputNum = 58
+let results = numbreToRoman.convert(number: inputNum)
 print(results)

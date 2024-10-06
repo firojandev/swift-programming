@@ -11,6 +11,7 @@
 		C141DD842CB259D500AA848B /* sum-nums-position.swift in Sources */ = {isa = PBXBuildFile; fileRef = C141DD832CB259D500AA848B /* sum-nums-position.swift */; };
 		C141DD862CB25D4D00AA848B /* Palindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = C141DD852CB25D4D00AA848B /* Palindrome.swift */; };
 		C141DD882CB2679300AA848B /* RomainToInt.swift in Sources */ = {isa = PBXBuildFile; fileRef = C141DD872CB2679300AA848B /* RomainToInt.swift */; };
+		C141DD8A2CB2891000AA848B /* IntToRoman.swift in Sources */ = {isa = PBXBuildFile; fileRef = C141DD892CB2891000AA848B /* IntToRoman.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		C141DD832CB259D500AA848B /* sum-nums-position.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "sum-nums-position.swift"; sourceTree = "<group>"; };
 		C141DD852CB25D4D00AA848B /* Palindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Palindrome.swift; sourceTree = "<group>"; };
 		C141DD872CB2679300AA848B /* RomainToInt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomainToInt.swift; sourceTree = "<group>"; };
+		C141DD892CB2891000AA848B /* IntToRoman.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntToRoman.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				C141DD832CB259D500AA848B /* sum-nums-position.swift */,
 				C141DD852CB25D4D00AA848B /* Palindrome.swift */,
 				C141DD872CB2679300AA848B /* RomainToInt.swift */,
+				C141DD892CB2891000AA848B /* IntToRoman.swift */,
 			);
 			path = "swift-programming";
 			sourceTree = "<group>";
@@ -133,6 +136,7 @@
 				C141DD7D2CB258F500AA848B /* main.swift in Sources */,
 				C141DD862CB25D4D00AA848B /* Palindrome.swift in Sources */,
 				C141DD842CB259D500AA848B /* sum-nums-position.swift in Sources */,
+				C141DD8A2CB2891000AA848B /* IntToRoman.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
