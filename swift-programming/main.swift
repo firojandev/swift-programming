@@ -36,7 +36,15 @@ import Foundation
 //print(results)
 
 //Minimum String Length After Removing Substrings
-let removeSubString = RemoveSubString()
-let inputString = "CCCCDDDD"
-let results = removeSubString.findMinLength(inputString)
+//let removeSubString = RemoveSubString()
+//let inputString = "CCCCDDDD"
+//let results = removeSubString.findMinLength(inputString)
+//print(results)
+
+//Find longest common string
+let commonStr = CommonString()
+let inputArray: [String] = ["flower","flow","flight"]
+//let inputArray = ["dog","racecar","car"]
+//let inputArray: [String] = ["khds","khdsererer","khdsre"]
+let results = commonStr.findLongest(inputArray)
 print(results)
