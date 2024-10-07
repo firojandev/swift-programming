@@ -9,6 +9,10 @@
 /* Begin PBXBuildFile section */
 		C1165D122CB37E67009B2E08 /* RemoveSubString.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1165D112CB37E67009B2E08 /* RemoveSubString.swift */; };
 		C1165D142CB39CC7009B2E08 /* CommonString.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1165D132CB39CC7009B2E08 /* CommonString.swift */; };
+		C1165D162CB3A60F009B2E08 /* Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1165D152CB3A60F009B2E08 /* Parentheses.swift */; };
+		C1165D182CB3B9FA009B2E08 /* SubsStringConcat.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1165D172CB3B9FA009B2E08 /* SubsStringConcat.swift */; };
+		C1165D1A2CB3E332009B2E08 /* MergeTwoSortedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1165D192CB3E332009B2E08 /* MergeTwoSortedList.swift */; };
+		C1165D1C2CB3EC3B009B2E08 /* FindIndexOfOccurance.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1165D1B2CB3EC3B009B2E08 /* FindIndexOfOccurance.swift */; };
 		C141DD7D2CB258F500AA848B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = C141DD7C2CB258F500AA848B /* main.swift */; };
 		C141DD842CB259D500AA848B /* sum-nums-position.swift in Sources */ = {isa = PBXBuildFile; fileRef = C141DD832CB259D500AA848B /* sum-nums-position.swift */; };
 		C141DD862CB25D4D00AA848B /* Palindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = C141DD852CB25D4D00AA848B /* Palindrome.swift */; };
@@ -31,6 +35,10 @@
 /* Begin PBXFileReference section */
 		C1165D112CB37E67009B2E08 /* RemoveSubString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveSubString.swift; sourceTree = "<group>"; };
 		C1165D132CB39CC7009B2E08 /* CommonString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommonString.swift; sourceTree = "<group>"; };
+		C1165D152CB3A60F009B2E08 /* Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Parentheses.swift; sourceTree = "<group>"; };
+		C1165D172CB3B9FA009B2E08 /* SubsStringConcat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubsStringConcat.swift; sourceTree = "<group>"; };
+		C1165D192CB3E332009B2E08 /* MergeTwoSortedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeTwoSortedList.swift; sourceTree = "<group>"; };
+		C1165D1B2CB3EC3B009B2E08 /* FindIndexOfOccurance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindIndexOfOccurance.swift; sourceTree = "<group>"; };
 		C141DD792CB258F500AA848B /* swift-programming */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "swift-programming"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C141DD7C2CB258F500AA848B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		C141DD832CB259D500AA848B /* sum-nums-position.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "sum-nums-position.swift"; sourceTree = "<group>"; };
@@ -76,6 +84,10 @@
 				C141DD892CB2891000AA848B /* IntToRoman.swift */,
 				C1165D112CB37E67009B2E08 /* RemoveSubString.swift */,
 				C1165D132CB39CC7009B2E08 /* CommonString.swift */,
+				C1165D152CB3A60F009B2E08 /* Parentheses.swift */,
+				C1165D172CB3B9FA009B2E08 /* SubsStringConcat.swift */,
+				C1165D192CB3E332009B2E08 /* MergeTwoSortedList.swift */,
+				C1165D1B2CB3EC3B009B2E08 /* FindIndexOfOccurance.swift */,
 			);
 			path = "swift-programming";
 			sourceTree = "<group>";
@@ -142,8 +154,12 @@
 				C141DD882CB2679300AA848B /* RomainToInt.swift in Sources */,
 				C141DD7D2CB258F500AA848B /* main.swift in Sources */,
 				C141DD862CB25D4D00AA848B /* Palindrome.swift in Sources */,
+				C1165D1A2CB3E332009B2E08 /* MergeTwoSortedList.swift in Sources */,
+				C1165D1C2CB3EC3B009B2E08 /* FindIndexOfOccurance.swift in Sources */,
 				C141DD842CB259D500AA848B /* sum-nums-position.swift in Sources */,
 				C141DD8A2CB2891000AA848B /* IntToRoman.swift in Sources */,
+				C1165D182CB3B9FA009B2E08 /* SubsStringConcat.swift in Sources */,
+				C1165D162CB3A60F009B2E08 /* Parentheses.swift in Sources */,
 				C1165D122CB37E67009B2E08 /* RemoveSubString.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
