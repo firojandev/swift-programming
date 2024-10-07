@@ -30,7 +30,13 @@ import Foundation
 
 //Problem & Solutions 4
 //Convert the number to roman number
-let numbreToRoman = IntToRoman()
-let inputNum = 58
-let results = numbreToRoman.convert(number: inputNum)
+//let numbreToRoman = IntToRoman()
+//let inputNum = 58
+//let results = numbreToRoman.convert(number: inputNum)
+//print(results)
+
+//Minimum String Length After Removing Substrings
+let removeSubString = RemoveSubString()
+let inputString = "CCCCDDDD"
+let results = removeSubString.findMinLength(inputString)
 print(results)

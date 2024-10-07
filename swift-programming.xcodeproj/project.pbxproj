@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C1165D122CB37E67009B2E08 /* RemoveSubString.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1165D112CB37E67009B2E08 /* RemoveSubString.swift */; };
 		C141DD7D2CB258F500AA848B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = C141DD7C2CB258F500AA848B /* main.swift */; };
 		C141DD842CB259D500AA848B /* sum-nums-position.swift in Sources */ = {isa = PBXBuildFile; fileRef = C141DD832CB259D500AA848B /* sum-nums-position.swift */; };
 		C141DD862CB25D4D00AA848B /* Palindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = C141DD852CB25D4D00AA848B /* Palindrome.swift */; };
@@ -27,6 +28,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		C1165D112CB37E67009B2E08 /* RemoveSubString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveSubString.swift; sourceTree = "<group>"; };
 		C141DD792CB258F500AA848B /* swift-programming */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "swift-programming"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C141DD7C2CB258F500AA848B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		C141DD832CB259D500AA848B /* sum-nums-position.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "sum-nums-position.swift"; sourceTree = "<group>"; };
@@ -70,6 +72,7 @@
 				C141DD852CB25D4D00AA848B /* Palindrome.swift */,
 				C141DD872CB2679300AA848B /* RomainToInt.swift */,
 				C141DD892CB2891000AA848B /* IntToRoman.swift */,
+				C1165D112CB37E67009B2E08 /* RemoveSubString.swift */,
 			);
 			path = "swift-programming";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 				C141DD862CB25D4D00AA848B /* Palindrome.swift in Sources */,
 				C141DD842CB259D500AA848B /* sum-nums-position.swift in Sources */,
 				C141DD8A2CB2891000AA848B /* IntToRoman.swift in Sources */,
+				C1165D122CB37E67009B2E08 /* RemoveSubString.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
