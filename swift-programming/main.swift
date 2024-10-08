@@ -113,8 +113,23 @@ import Foundation
 
 //Problem & solutions 13
 //Remove Element
-let removeElement = RemoveElement()
-var inputArray = [0,1,2,2,3,0,4,2]
-let val = 2
-let results = removeElement.remove(&inputArray,val)
+//let removeElement = RemoveElement()
+//var inputArray = [0,1,2,2,3,0,4,2]
+//let val = 2
+//let results = removeElement.remove(&inputArray,val)
+//print(results)
+
+//Problem & solutions 14
+//Remove Duplicate
+//let removeDuplicate = RemoveDuplicate()
+//var inputArray = [1]
+//let results = removeDuplicate.remove(&inputArray)
+//print(results)
+
+//Problem & solutions 15
+//Search Insert Position
+let searchInsertPosition = SearchInsertPosition()
+let inputArray = [1,3,5,6]
+let target = 10
+let results = searchInsertPosition.searchInsert(inputArray,target)
 print(results)
