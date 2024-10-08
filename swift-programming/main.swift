@@ -91,8 +91,30 @@ import Foundation
 //}
 
 //Problem & solutions 10
-let findIndexOfOccurance = FindIndexOfOccurance()
-let haystack = "mesaltaf"
-let needle = "altaf"
-let results = findIndexOfOccurance.strStr(haystack,needle)
+//let findIndexOfOccurance = FindIndexOfOccurance()
+//let haystack = "mesaltaf"
+//let needle = "altaf"
+//let results = findIndexOfOccurance.strStr(haystack,needle)
+//print(results)
+
+//Problem & Solutions 11
+//Minimum Number of Swaps to Make the String Balanced
+//let balanceString = BalanceString()
+//let inputStr = "][]["
+//let results = balanceString.minSwaps(inputStr)
+//print(results)
+
+//Problem & solutions 12
+//Reverse Integer
+//let reverseInteger = ReverseInteger()
+//let inputValue = -123
+//let results = reverseInteger.reverse(inputValue)
+//print(results)
+
+//Problem & solutions 13
+//Remove Element
+let removeElement = RemoveElement()
+var inputArray = [0,1,2,2,3,0,4,2]
+let val = 2
+let results = removeElement.remove(&inputArray,val)
 print(results)
