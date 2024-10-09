@@ -18,6 +18,8 @@
 		C127696E2CB5008300EC46E7 /* RemoveElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = C127696D2CB5008300EC46E7 /* RemoveElement.swift */; };
 		C12769702CB51C4300EC46E7 /* RemoveDuplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C127696F2CB51C4300EC46E7 /* RemoveDuplicate.swift */; };
 		C12769722CB526BA00EC46E7 /* SearchInsertPosition.swift in Sources */ = {isa = PBXBuildFile; fileRef = C12769712CB526BA00EC46E7 /* SearchInsertPosition.swift */; };
+		C12C99912CB6839E005EC179 /* LastWordLength.swift in Sources */ = {isa = PBXBuildFile; fileRef = C12C99902CB6839E005EC179 /* LastWordLength.swift */; };
+		C12C99932CB686E2005EC179 /* PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = C12C99922CB686E2005EC179 /* PlusOne.swift */; };
 		C141DD7D2CB258F500AA848B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = C141DD7C2CB258F500AA848B /* main.swift */; };
 		C141DD842CB259D500AA848B /* sum-nums-position.swift in Sources */ = {isa = PBXBuildFile; fileRef = C141DD832CB259D500AA848B /* sum-nums-position.swift */; };
 		C141DD862CB25D4D00AA848B /* Palindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = C141DD852CB25D4D00AA848B /* Palindrome.swift */; };
@@ -49,6 +51,8 @@
 		C127696D2CB5008300EC46E7 /* RemoveElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveElement.swift; sourceTree = "<group>"; };
 		C127696F2CB51C4300EC46E7 /* RemoveDuplicate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveDuplicate.swift; sourceTree = "<group>"; };
 		C12769712CB526BA00EC46E7 /* SearchInsertPosition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchInsertPosition.swift; sourceTree = "<group>"; };
+		C12C99902CB6839E005EC179 /* LastWordLength.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LastWordLength.swift; sourceTree = "<group>"; };
+		C12C99922CB686E2005EC179 /* PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusOne.swift; sourceTree = "<group>"; };
 		C141DD792CB258F500AA848B /* swift-programming */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "swift-programming"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C141DD7C2CB258F500AA848B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		C141DD832CB259D500AA848B /* sum-nums-position.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "sum-nums-position.swift"; sourceTree = "<group>"; };
@@ -103,6 +107,8 @@
 				C127696D2CB5008300EC46E7 /* RemoveElement.swift */,
 				C127696F2CB51C4300EC46E7 /* RemoveDuplicate.swift */,
 				C12769712CB526BA00EC46E7 /* SearchInsertPosition.swift */,
+				C12C99902CB6839E005EC179 /* LastWordLength.swift */,
+				C12C99922CB686E2005EC179 /* PlusOne.swift */,
 			);
 			path = "swift-programming";
 			sourceTree = "<group>";
@@ -180,6 +186,8 @@
 				C1165D162CB3A60F009B2E08 /* Parentheses.swift in Sources */,
 				C12769702CB51C4300EC46E7 /* RemoveDuplicate.swift in Sources */,
 				C1165D122CB37E67009B2E08 /* RemoveSubString.swift in Sources */,
+				C12C99912CB6839E005EC179 /* LastWordLength.swift in Sources */,
+				C12C99932CB686E2005EC179 /* PlusOne.swift in Sources */,
 				C127696C2CB4F85F00EC46E7 /* ReverseInteger.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

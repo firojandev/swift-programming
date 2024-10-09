@@ -128,8 +128,27 @@ import Foundation
 
 //Problem & solutions 15
 //Search Insert Position
-let searchInsertPosition = SearchInsertPosition()
-let inputArray = [1,3,5,6]
-let target = 10
-let results = searchInsertPosition.searchInsert(inputArray,target)
+//let searchInsertPosition = SearchInsertPosition()
+//let inputArray = [1,3,5,6]
+//let target = 10
+//let results = searchInsertPosition.searchInsert(inputArray,target)
+//print(results)
+
+//Problem & solutions 16
+//let parentheses = Parentheses()
+//let inputString = "()))(("
+//let results = parentheses.minAddToMakeValid(inputString)
+//print(results)
+
+//Problem & solutions 16
+//let lastWord = LastWordLength()
+//let inputString = "Hello World"
+//let results = lastWord.calculate(inputString)
+//print(results)
+
+
+//Problem & solutions 17
+let plusOne = PlusOne()
+let inputArray = [7,2,8,5,0,9,1,2,9,5,3,6,6,7,3,2,8,4,3,7,9,5,7,7,4,7,4,9,4,7,0,1,1,1,7,4,0,0,6]
+let results = plusOne.plus(inputArray)
 print(results)
